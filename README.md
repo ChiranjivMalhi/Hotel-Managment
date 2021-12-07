@@ -1,0 +1,2 @@
+# Hotel-Managment
+This Project on Hotel Management is a general software developed (using Python) to simplify hotel operations by automating them. In this project, “The McAvoy” is the project’s hotel name. It covers major aspects of hotel management; it could perform the following operations- Hotel Booking, Provide you with Hotel Rooms Info, Activities, Billing and Record-Keeping. Along with this the program also helps the administrator to see various graphs for data analysis.
