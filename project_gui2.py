@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 30 11:47:01 2020
-
-@author: Chiranjiv
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 28 22:34:16 2020
-
-@author: Chiranjiv
-"""
 
 from tkinter import *
 import tkinter as tk
